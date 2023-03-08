@@ -60,7 +60,7 @@
 			class="absolute top-9 right-9 font-serif text-white text-4xl w-40 text-right"
 			style="text-shadow: 2px 2px 5px black;"
 		>
-			Thu thao yeu doi
+			Thu thảo yêu đời
 		</div>
 	</div>
 </section>
